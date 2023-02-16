@@ -5,6 +5,6 @@ SAST Tools catch bugs and vulnerabilities in your application, with thousands of
 
 
 - [Amazon CodeFuru](https://aws.amazon.com/codeguru/)
-- [Sonarqube]
+- [Sonarqube](https://www.sonarsource.com/solutions/security/)
 - [CheckmarX]
 - [Snyk]
