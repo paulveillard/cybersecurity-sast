@@ -26,7 +26,7 @@ SAST tool feedback can save time and effort, especially when compared to finding
 
 ## `Strengths and Weaknesses`
 
-### Strengths
+### `Strengths`
 
 - Scales well -- can be run on lots of software, and can be run repeatedly (as with nightly builds or continuous integration).
 - Identifies certain well-known vulnerabilities, such as:
@@ -35,7 +35,7 @@ SAST tool feedback can save time and effort, especially when compared to finding
 - Output helps developers, as SAST tools highlight the problematic code, by filename,
   location, line number, and even the affected code snippet.
 
-### Weaknesses
+### `Weaknesses`
 
 - Difficult to automate searches for many types of security vulnerabilities, including:
   - Authentication problems
@@ -52,7 +52,7 @@ SAST tool feedback can save time and effort, especially when compared to finding
     - Compilation instructions
     - All required code
 
-## Important Selection Criteria
+## `Important Selection Criteria`
 
 - Prerequisite: Support your programming language.
 - Ability to detect vulnerabilities, based on:
