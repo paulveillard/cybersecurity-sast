@@ -191,3 +191,8 @@ permalink: /Source_Code_Analysis_Tool
 - [NIST's list of Source Code Security Analysis Tools](https://samate.nist.gov/index.php/Source_Code_Security_Analyzers.html).
 - [DAST Tools](/www-community/Vulnerability_Scanning_Tools) - Similar info on Dynamic Application Security Testing (DAST) Tools.
 - [Free for Open Source Application Security Tools](/www-community/Free_for_Open_Source_Application_Security_Tools) - This page lists the Commercial Source Code Analysis Tools (SAST) we know of that are free for Open Source.
+
+- **[`^        back to top        ^`](#)**
+
+## `License`
+MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
