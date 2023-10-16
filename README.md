@@ -5,17 +5,7 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## `About Static Application Security Testing (DAST)`
 
----
 
-layout: col-sidebar
-title: Source Code Analysis Tools
-author: 
-contributors: 
-  - Dave Wichers, itamarlavender, will-obrien, Eitan Worcel, Prabhu Subramanian, kingthorin, coadaflorin, hblankenship, GovorovViva64, pfhorman, GouveaHeitor, Clint Gibler, DSotnikov, Ajin Abraham, Noam Rathaus, Mike Jang
-tags: source code analysis, static code analysis, tools
-permalink: /Source_Code_Analysis_Tools
-
----
 
 
 
