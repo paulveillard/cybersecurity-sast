@@ -179,6 +179,13 @@ SAST tool feedback can save time and effort, especially when compared to finding
 | VS Code OpenAPI (Swagger) Editor extension       |                                             | Open Source or Free |                                                                                               | Plugin to Microsoft Visual Studio Code that enables rich editing capabilities for REST API contracts and also includes linting and Security Audit (static security analysis).                                                                                                                                                                                                                                                                                                                            |
 | Xanitizer                                        | Xanitizer                                   | Commercial          | CLI and plugin integration                                                                    | A SAST tool for Java, Scala, and JavaScript/TypeScript, mainly via taint analysis. Per this pricing page, it is free for Open Source projects if you contact the vendor.                                                                                                                                                                                                                                                                                                                                 |
 
+
+contributors: 
+  - Dave Wichers, itamarlavender, will-obrien, Eitan Worcel, Prabhu Subramanian, kingthorin, coadaflorin, hblankenship, GovorovViva64, pfhorman, GouveaHeitor, Clint Gibler, DSotnikov, Ajin Abraham, Noam Rathaus, Mike Jang
+tags: source code analysis, static code analysis, tools
+permalink: /Source_Code_Analysis_Tool
+
+
 ## More info
 
 - [NIST's list of Source Code Security Analysis Tools](https://samate.nist.gov/index.php/Source_Code_Security_Analyzers.html).
